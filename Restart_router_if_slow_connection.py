@@ -2,7 +2,8 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from time import sleep
 
-driver = webdriver.Firefox(executable_path=r'C:\geckodriver\geckodriver.exe')  # Windows temp -need add to PATH
+# driver = webdriver.Firefox(executable_path=r'C:\geckodriver\geckodriver.exe')  # Windows absolute
+driver = webdriver.Firefox()
 
 driver.get("http://192.168.1.1")
 assert "TD-W8980" in driver.title
