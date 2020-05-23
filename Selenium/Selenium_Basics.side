@@ -1,0 +1,507 @@
+{
+  "id": "c9273669-a3c6-4023-b0c2-c73487decc3d",
+  "version": "2.0",
+  "name": "Selenium_Basics",
+  "url": "https://www.google.com",
+  "tests": [{
+    "id": "2f6e57fe-579f-47ba-9bc5-6fd92d922542",
+    "name": "1st recording",
+    "commands": [{
+      "id": "a6cd569c-445b-4dc4-9f6a-cbf0387b19b5",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "896e7653-5b2e-46e2-bff5-a6f4ac061e46",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1936x1066",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "f00ee21d-0a65-493c-8574-f290c98cb1a5",
+      "comment": "",
+      "command": "click",
+      "target": "name=q",
+      "targets": [
+        ["name=q", "name"],
+        ["css=.gLFyf", "css:finder"],
+        ["xpath=//input[@name='q']", "xpath:attributes"],
+        ["xpath=//form[@id='tsf']/div[2]/div/div/div/div[2]/input", "xpath:idRelative"],
+        ["xpath=//div[2]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "80e82e71-b417-429f-a7ff-0877fced84ea",
+      "comment": "",
+      "command": "type",
+      "target": "name=q",
+      "targets": [
+        ["name=q", "name"],
+        ["css=.gLFyf", "css:finder"],
+        ["xpath=//input[@name='q']", "xpath:attributes"],
+        ["xpath=//form[@id='tsf']/div[2]/div/div/div/div[2]/input", "xpath:idRelative"],
+        ["xpath=//div[2]/input", "xpath:position"]
+      ],
+      "value": "test"
+    }, {
+      "id": "b3079f73-383b-441f-9102-430043151feb",
+      "comment": "",
+      "command": "sendKeys",
+      "target": "name=q",
+      "targets": [
+        ["name=q", "name"],
+        ["css=.gLFyf", "css:finder"],
+        ["xpath=//input[@name='q']", "xpath:attributes"],
+        ["xpath=//form[@id='tsf']/div[2]/div/div/div/div[2]/input", "xpath:idRelative"],
+        ["xpath=//div[2]/input", "xpath:position"]
+      ],
+      "value": "${KEY_ENTER}"
+    }, {
+      "id": "8c7ef0cf-3a5b-4771-8379-967c13d8d4d3",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=#gbwa .gb_D",
+      "targets": [
+        ["css=#gbwa .gb_D", "css:finder"],
+        ["xpath=//div[@id='gbwa']/div/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://www.google.pl/intl/pl/about/products?tab=wh')]", "xpath:href"],
+        ["xpath=//div/div/div/div/div/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "760bb7e0-7bc6-45ef-aa64-23086c730c35",
+      "comment": "",
+      "command": "mouseOut",
+      "target": "css=#gbwa .gb_D",
+      "targets": [
+        ["css=#gbwa .gb_D", "css:finder"],
+        ["xpath=//div[@id='gbwa']/div/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://www.google.pl/intl/pl/about/products?tab=wh')]", "xpath:href"],
+        ["xpath=//div/div/div/div/div/a", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }, {
+    "id": "cb16c3ce-68ce-4b00-a423-e0ad2d1cf439",
+    "name": "3rd test",
+    "commands": [{
+      "id": "70be1e55-605e-4d12-bc44-7164d38d386c",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c5732f32-b72a-476d-a77f-f935e043204d",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1145x978",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "8d62dea2-d27b-471d-a472-9eb4e3f6de2e",
+      "comment": "",
+      "command": "type",
+      "target": "name=q",
+      "targets": [
+        ["name=q", "name"],
+        ["css=.gLFyf", "css:finder"],
+        ["xpath=//input[@name='q']", "xpath:attributes"],
+        ["xpath=//form[@id='tsf']/div[2]/div/div/div/div[2]/input", "xpath:idRelative"],
+        ["xpath=//div[2]/input", "xpath:position"]
+      ],
+      "value": "kainos"
+    }, {
+      "id": "280a0d1b-9d86-47da-92fa-2224f966ba0c",
+      "comment": "",
+      "command": "sendKeys",
+      "target": "name=q",
+      "targets": [
+        ["name=q", "name"],
+        ["css=.gLFyf", "css:finder"],
+        ["xpath=//input[@name='q']", "xpath:attributes"],
+        ["xpath=//form[@id='tsf']/div[2]/div/div/div/div[2]/input", "xpath:idRelative"],
+        ["xpath=//div[2]/input", "xpath:position"]
+      ],
+      "value": "${KEY_ENTER}"
+    }, {
+      "id": "c9308199-942b-4beb-8013-4681aeec088d",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "linkText=Telefon",
+      "targets": [
+        ["linkText=Telefon", "linkText"],
+        ["css=.mod:nth-child(4) .fl", "css:finder"],
+        ["xpath=//a[contains(text(),'Telefon')]", "xpath:link"],
+        ["xpath=//div[@id='rhs']/div/div/div/div/div/div[3]/div/div[4]/div/div/span/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/search?safe=off&q=kainos+telefon&ludocid=5881318071403663233&sa=X&ved=2ahUKEwjHk_ntmL7pAhXNzKQKHUl7BZYQ6BMwFXoECBYQBw')]", "xpath:href"],
+        ["xpath=//div[4]/div/div/span/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Telefon')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "05fcf47e-ae11-4de3-a0d8-5df101120389",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "css=div:nth-child(2) > .rc:nth-child(1) .LC20lb",
+      "targets": [
+        ["css=div:nth-child(2) > .rc:nth-child(1) .LC20lb", "css:finder"],
+        ["xpath=//div[@id='rso']/div/div/div/div/a/h3", "xpath:idRelative"],
+        ["xpath=//h3", "xpath:position"],
+        ["xpath=//h3[contains(.,'Kainos Polska - Kainos Polska')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }, {
+    "id": "a5fd46f4-7198-4111-959b-9e5f9cba0d49",
+    "name": "Text_present",
+    "commands": [{
+      "id": "f4255d03-51b3-4fda-9d1e-7ef47b662876",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "d9d5d099-a801-4890-8648-2cae229a43f4",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1145x978",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "7d0d0c1c-907f-4e00-a552-271e234c1a2b",
+      "comment": "",
+      "command": "type",
+      "target": "name=q",
+      "targets": [
+        ["name=q", "name"],
+        ["css=.gLFyf", "css:finder"],
+        ["xpath=//input[@name='q']", "xpath:attributes"],
+        ["xpath=//form[@id='tsf']/div[2]/div/div/div/div[2]/input", "xpath:idRelative"],
+        ["xpath=//div[2]/input", "xpath:position"]
+      ],
+      "value": "kainos.pl"
+    }, {
+      "id": "169a7dbc-1d40-4e65-9e56-bec771a52660",
+      "comment": "",
+      "command": "sendKeys",
+      "target": "name=q",
+      "targets": [
+        ["name=q", "name"],
+        ["css=.gLFyf", "css:finder"],
+        ["xpath=//input[@name='q']", "xpath:attributes"],
+        ["xpath=//form[@id='tsf']/div[2]/div/div/div/div[2]/input", "xpath:idRelative"],
+        ["xpath=//div[2]/input", "xpath:position"]
+      ],
+      "value": "${KEY_ENTER}"
+    }, {
+      "id": "7abb18c4-5a37-4a00-8ad4-4747c555d748",
+      "comment": "",
+      "command": "verifyText",
+      "target": "css=div:nth-child(2) > .rc:nth-child(1) .LC20lb",
+      "targets": [
+        ["css=div:nth-child(2) > .rc:nth-child(1) .LC20lb", "css:finder"],
+        ["xpath=//div[@id='rso']/div/div/div/div/a/h3", "xpath:idRelative"],
+        ["xpath=//h3", "xpath:position"],
+        ["xpath=//h3[contains(.,'Kainos Polska - Kainos Polska')]", "xpath:innerText"]
+      ],
+      "value": "Kainos Polska - Kainos Polska"
+    }, {
+      "id": "6e1ad96e-9211-4925-a0d8-e036bcf3fd55",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "f8195ff9-5b97-46ee-88ff-94089342adb0",
+    "name": "Wait_for_element_present",
+    "commands": [{
+      "id": "1b941033-0378-4354-89b4-c689504b589b",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "25d11571-13fc-4600-9d3b-ae47a915492d",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1145x978",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "9e171be5-24a6-4647-804f-2c1e205674d2",
+      "comment": "",
+      "command": "type",
+      "target": "name=q",
+      "targets": [
+        ["name=q", "name"],
+        ["css=.gLFyf", "css:finder"],
+        ["xpath=//input[@name='q']", "xpath:attributes"],
+        ["xpath=//form[@id='tsf']/div[2]/div/div/div/div[2]/input", "xpath:idRelative"],
+        ["xpath=//div[2]/input", "xpath:position"]
+      ],
+      "value": "kainos.pl"
+    }, {
+      "id": "db667175-0011-49c0-883b-a54dde6001e9",
+      "comment": "",
+      "command": "sendKeys",
+      "target": "name=q",
+      "targets": [
+        ["name=q", "name"],
+        ["css=.gLFyf", "css:finder"],
+        ["xpath=//input[@name='q']", "xpath:attributes"],
+        ["xpath=//form[@id='tsf']/div[2]/div/div/div/div[2]/input", "xpath:idRelative"],
+        ["xpath=//div[2]/input", "xpath:position"]
+      ],
+      "value": "${KEY_ENTER}"
+    }, {
+      "id": "f9f09ae6-9140-466b-bf96-64979eab5abf",
+      "comment": "",
+      "command": "waitForElementPresent",
+      "target": "css=div:nth-child(2) > .rc:nth-child(1) .LC20lb",
+      "targets": [
+        ["css=div:nth-child(2) > .rc:nth-child(1) .LC20lb", "css:finder"],
+        ["xpath=//div[@id='rso']/div/div/div/div/a/h3", "xpath:idRelative"],
+        ["xpath=//h3", "xpath:position"],
+        ["xpath=//h3[contains(.,'Kainos Polska - Kainos Polska')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "656cc3e1-dd92-4496-9b5f-85bcd1865637",
+      "comment": "",
+      "command": "verifyTitle",
+      "target": "kainos.pl - Szukaj w Google",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "2c1bfed2-a2cf-4165-a978-ffed8be55328",
+    "name": "Wait_for_element_present (1)",
+    "commands": [{
+      "id": "d1fc6e5e-8274-4220-b1bb-c2e3ee94390c",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "93f571b8-e150-4180-ad27-3bc355039506",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1145x978",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "5dcdf1f8-e938-46c8-8d4f-b8da53aa9d24",
+      "comment": "",
+      "command": "type",
+      "target": "name=q",
+      "targets": [
+        ["name=q", "name"],
+        ["css=.gLFyf", "css:finder"],
+        ["xpath=//input[@name='q']", "xpath:attributes"],
+        ["xpath=//form[@id='tsf']/div[2]/div/div/div/div[2]/input", "xpath:idRelative"],
+        ["xpath=//div[2]/input", "xpath:position"]
+      ],
+      "value": "kainos.pl"
+    }, {
+      "id": "cada8bab-4b7c-49a2-bf86-25862892c451",
+      "comment": "",
+      "command": "sendKeys",
+      "target": "name=q",
+      "targets": [
+        ["name=q", "name"],
+        ["css=.gLFyf", "css:finder"],
+        ["xpath=//input[@name='q']", "xpath:attributes"],
+        ["xpath=//form[@id='tsf']/div[2]/div/div/div/div[2]/input", "xpath:idRelative"],
+        ["xpath=//div[2]/input", "xpath:position"]
+      ],
+      "value": "${KEY_ENTER}"
+    }, {
+      "id": "2ad8e5e3-6c17-48ee-928e-d2c40452697a",
+      "comment": "",
+      "command": "waitForElementPresent",
+      "target": "css=div:nth-child(2) > .rc:nth-child(1) .LC20lb",
+      "targets": [
+        ["css=div:nth-child(2) > .rc:nth-child(1) .LC20lb", "css:finder"],
+        ["xpath=//div[@id='rso']/div/div/div/div/a/h3", "xpath:idRelative"],
+        ["xpath=//h3", "xpath:position"],
+        ["xpath=//h3[contains(.,'Kainos Polska - Kainos Polska')]", "xpath:innerText"]
+      ],
+      "value": "100"
+    }, {
+      "id": "d6104bed-d6ed-46ab-9f23-894cf4f28032",
+      "comment": "",
+      "command": "verifyTitle",
+      "target": "kainos.pl - Szukaj w Google",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "f2509541-888c-46f8-8eee-acf32a6f355a",
+    "name": "Click",
+    "commands": [{
+      "id": "f870688f-5d47-4817-83a6-c477dc00315e",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "73c1aa50-ae75-4941-ac6e-92920d9528f3",
+      "comment": "",
+      "command": "type",
+      "target": "name=q",
+      "targets": [
+        ["name=q", "name"],
+        ["css=.gLFyf", "css:finder"],
+        ["xpath=//input[@name='q']", "xpath:attributes"],
+        ["xpath=//form[@id='tsf']/div[2]/div/div/div/div[2]/input", "xpath:idRelative"],
+        ["xpath=//div[2]/input", "xpath:position"]
+      ],
+      "value": "kainos.pl"
+    }, {
+      "id": "ded29593-d929-458e-84a0-de6aa3db97fe",
+      "comment": "",
+      "command": "sendKeys",
+      "target": "name=q",
+      "targets": [
+        ["name=q", "name"],
+        ["css=.gLFyf", "css:finder"],
+        ["xpath=//input[@name='q']", "xpath:attributes"],
+        ["xpath=//form[@id='tsf']/div[2]/div/div/div/div[2]/input", "xpath:idRelative"],
+        ["xpath=//div[2]/input", "xpath:position"]
+      ],
+      "value": "${KEY_ENTER}"
+    }, {
+      "id": "12918eb9-2306-426a-bd66-84024d44c7e1",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "css=div:nth-child(2) > .rc:nth-child(1) .LC20lb",
+      "targets": [
+        ["css=div:nth-child(2) > .rc:nth-child(1) .LC20lb", "css:finder"],
+        ["xpath=//div[@id='rso']/div/div/div/div/a/h3", "xpath:idRelative"],
+        ["xpath=//h3", "xpath:position"],
+        ["xpath=//h3[contains(.,'Kainos Polska - Kainos Polska')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "bd35bcc4-ee8c-49e6-8fee-6c0866771c72",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=.gb_Ia",
+      "targets": [
+        ["css=.gb_Ia", "css:finder"],
+        ["xpath=//div[@id='gb']/div/div/div[2]/div/a/span", "xpath:idRelative"],
+        ["xpath=//span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "bb6c0a99-c2bd-41d9-aeeb-b5ba2c93456b",
+      "comment": "",
+      "command": "mouseOut",
+      "target": "css=.gb_Ia",
+      "targets": [
+        ["css=.gb_Ia", "css:finder"],
+        ["xpath=//div[@id='gb']/div/div/div[2]/div/a/span", "xpath:idRelative"],
+        ["xpath=//span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "73b63987-3a7e-447b-9196-d025da074d84",
+      "comment": "",
+      "command": "verifyText",
+      "target": "css=div:nth-child(2) > .rc:nth-child(1) .LC20lb",
+      "targets": [
+        ["css=div:nth-child(2) > .rc:nth-child(1) .LC20lb", "css:finder"],
+        ["xpath=//div[@id='rso']/div/div/div/div/a/h3", "xpath:idRelative"],
+        ["xpath=//h3", "xpath:position"],
+        ["xpath=//h3[contains(.,'Kainos Polska - Kainos Polska')]", "xpath:innerText"]
+      ],
+      "value": "Kainos Polska - Kainos Polska"
+    }, {
+      "id": "84fbe9e6-4799-418e-85ad-e95116bd3253",
+      "comment": "",
+      "command": "click",
+      "target": "css=div:nth-child(2) > .rc:nth-child(1) .LC20lb",
+      "targets": [
+        ["css=div:nth-child(2) > .rc:nth-child(1) .LC20lb", "css:finder"],
+        ["xpath=//div[@id='rso']/div/div/div/div/a/h3", "xpath:idRelative"],
+        ["xpath=//h3", "xpath:position"],
+        ["xpath=//h3[contains(.,'Kainos Polska - Kainos Polska')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "ff055498-380d-4bc5-bab5-b01c9f7a7c48",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "linkText=O nas",
+      "targets": [
+        ["linkText=O nas", "linkText"],
+        ["css=#menu-item-11530 > a", "css:finder"],
+        ["xpath=//li[@id='menu-item-11530']/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://www.kainos.pl/o-nas/')]", "xpath:href"],
+        ["xpath=//li[2]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'O nas')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "71271d90-c4c7-44bc-9255-e499732fd8ff",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=O nas",
+      "targets": [
+        ["linkText=O nas", "linkText"],
+        ["css=#menu-item-11530 > a", "css:finder"],
+        ["xpath=//li[@id='menu-item-11530']/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://www.kainos.pl/o-nas/')]", "xpath:href"],
+        ["xpath=//li[2]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'O nas')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "4cf7f807-4612-4a24-b2e5-34033a42b3df",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Kontakt",
+      "targets": [
+        ["linkText=O nas", "linkText"],
+        ["css=#menu-item-11530 > a", "css:finder"],
+        ["xpath=//li[@id='menu-item-11530']/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://www.kainos.pl/o-nas/')]", "xpath:href"],
+        ["xpath=//li[2]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'O nas')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "bb27df32-6885-4f55-b30e-e2f84f69c90d",
+      "comment": "",
+      "command": "verifyElementPresent",
+      "target": "css=.fusion-column-tablecell > p:nth-child(3)",
+      "targets": [
+        ["css=.fusion-column-tablecell > p:nth-child(3)", "css:finder"],
+        ["xpath=//div[@id='kontakt']/div/div/div/div/div/div/p[2]", "xpath:idRelative"],
+        ["xpath=//p[2]", "xpath:position"],
+        ["xpath=//p[contains(.,'NIP: 583 315 25 87\nTel. +48 58 882 66 80')]", "xpath:innerText"]
+      ],
+      "value": "583 315 25 87"
+    }]
+  }],
+  "suites": [{
+    "id": "14c9e69d-6145-4c36-a6b1-477947fcdaeb",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["2f6e57fe-579f-47ba-9bc5-6fd92d922542"]
+  }],
+  "urls": ["https://www.google.com/"],
+  "plugins": []
+}
