@@ -32,6 +32,6 @@ class MyTest(unittest.TestCase):
 if __name__ == '__main__':
     unittest.main(testRunner=HTMLReport.TestRunner(
         report_file_name="Report",
-        output_path="./Reports",
+        output_path="../Reports",
         lang="en"
     ))
