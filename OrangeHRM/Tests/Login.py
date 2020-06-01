@@ -10,7 +10,8 @@ class Login(unittest.TestCase):
 
     @classmethod
     def setUpClass(cls):
-        cls.driver = webdriver.Firefox()
+        cls.driver = webdriver.Chrome("../../drivers/chromedriver")
+        # cls.driver = webdriver.Firefox()
         cls.driver.set_window_position(2000, 0)
         cls.driver.maximize_window()
 
@@ -22,7 +23,7 @@ class Login(unittest.TestCase):
     def setUp(self):
         self.driver.get("https://opensource-demo.orangehrmlive.com/index.php/auth/logout")
 
-    def test_01_bad_logins(self):   # Only bad combinations + a few SQLi
+    def test_99_bad_logins(self):   # Only bad combinations + a few SQLi
         with open("../Data/logins_bad.txt", "r") as file:
             logins = file.readlines()
         with open("../Data/passwords_bad.txt", "r") as file:
