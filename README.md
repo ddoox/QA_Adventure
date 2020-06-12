@@ -3,26 +3,26 @@
   * [ ] [Advent of Code](https://adventofcode.com/) - programming puzzles
   * [ ] [Automated Software Testing Arena](https://asta.pgs-soft.com/) - 10 tasks
 
+
 ## Planned
   * [ ] [Elemental Selenium](http://elementalselenium.com/) - E-mail about Selenium once per week
   * [ ] [Guru99](https://www.guru99.com/live-testing-project.html) - 13 day project
-      * [ ] 
-
   * [ ] [SoftwareTestingHelp](https://www.softwaretestinghelp.com/free-online-software-testing-qa-training-course/) - End To End Training On A Live Project
   * [ ] [Mr Buggy](http://mrbuggy.pl/) - Apps created for TestingCup
   * [ ] [Selenium Easy](https://www.seleniumeasy.com/test/) - Selenium exercise set
+  * [ ] [TestersPlayground](https://testersplayground.herokuapp.com/) - Various challenges designed to help testers learn as well as challenge their current knowledge and skills
+  
 ## Useful links/undefined future
 
+
 * Courses
-  * [ ] [Udacity](https://www.udacity.com/course/software-testing--cs258
-) - Software Testing
+  * [ ] [Udacity](https://www.udacity.com/course/software-testing--cs258) - Software Testing
   * [ ] [EDX](https://www.edx.org/course/software-testing-fundamentals) - Software Testing Fundamentals - starts July 14
   * [ ] [Introduction to Software Testing ](https://alison.com/course/introduction-to-software-testing) - Short, 2-3 h
   * [ ] [Software Testing Tutorial](https://www.guru99.com/software-testing.html) - A lot of tutorials
   * [ ] [Elemental Selenium](http://elementalselenium.com/) - E-mail about Selenium once per week
-* [ ] [SoftwareTestingHelp](https://www.softwaretestinghelp.com/free-online-software-testing-qa-training-course/) - End To End Training On A Live Project
+  * [ ] [SoftwareTestingHelp](https://www.softwaretestinghelp.com/free-online-software-testing-qa-training-course/) - End To End Training On A Live Project
   * [ ] [Guru99](https://www.guru99.com/live-testing-project.html) - 13 day project
-  
   
   
 * Practical examples
@@ -39,14 +39,13 @@
   * [ ] [RPA Challenge](http://www.rpachallenge.com/) - Input from excel
   * [ ] [Calculator](https://codepen.io/murtazamzk/full/YwjEor) - AngularJS
   * [ ] [Javagirl](http://javagirl.pl/aplikacje/) - App and API
-
   * [ ] [JSON Placeholder](https://jsonplaceholder.typicode.com/) - REST API
   * [ ] [TodoAPISample](https://github.com/g33klady/TodoApiSample) - UI and REST API
   * [ ] [Marvel API](https://developer.marvel.com/docs)  - API
   * [ ] [The Open Movie Database](http://www.omdbapi.com/) - RESTful web service
   * [ ] [Poké API](https://pokeapi.co/) - RESTful API
   * [ ] [Dummy REST API](http://dummy.restapiexample.com/)  - REST API
-
+  * [ ] [TestersPlayground](https://testersplayground.herokuapp.com/) - Various challenges designed to help testers learn as well as challenge their current knowledge and skills
   
 
 * Local apps
@@ -54,23 +53,21 @@
   * [ ] [Simple-Pokedex](https://github.com/amogh-w/Simple-Pokedex) - React TypeScript
 
 
-
 * Example websites to test
-
   * [ ] [Shop](http://automationpractice.com/index.php) - Ecommerce
   * [ ] [Mercury Tours](http://newtours.demoaut.com/) - Travel
   * [ ] [OrangeHRM](https://opensource-demo.orangehrmlive.com/) - HRM
-
   * [ ] [Weathershopper](https://weathershopper.pythonanywhere.com/) - Weather
 
   
-
-*  Crowd-testing
+* Crowd-testing
   * [ ] [uTest](https://www.utest.com/)
 
 
-
 * Programming
-  * [ ] [Advent of Code](https://adventofcode.com/) - programming puzzles
+  * [ ] [Advent of Code](https://adventofcode.com/) - Programming puzzles
+  * [ ] [CheckiO](https://checkio.org/) - Programming game
+  * [ ] [Glitchplay](https://glitchplay.com/) - Game testing
   * [ ] [Sphere online judge](https://www.spoj.com/)
-  * [ ] [JetBrains Academy](https://hyperskill.org/onboarding) - Java/Python 
+  * [ ] [JetBrains Academy](https://hyperskill.org/onboarding) - Java/Python
+  
