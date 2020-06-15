@@ -1,5 +1,21 @@
 ### Day 1
 A lot of theory + test scenario/cases
+
+### Day 2
+"You understand nothing, learn nothing & produce zero test cases!" - predicted outcome. Well it wasn't the most pleasant experience ever, but it was possible. Or maybe I've understood something wrong. Time will show.
+
+## Day 3
+Created a few Test Cases, waiting for prepared "by experts"
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ##### Summary of the Seven Testing Principles
 
     Principle 1 	Testing shows presence of defects

@@ -9,7 +9,7 @@ SRS - (Software Requirements Specification)
     Functional testing & external interfaces are in scope and need to be tested
     The banking site will be only compatible with Chrome version 27 and above
 
-###### Test scenario: Check the New Account functionality
+###### Test scenario: Check the Manager New Account functionality
 
 | Test Case ID | Test case description | Expected Result	|
 |--------------|-----------------------|------------------- |

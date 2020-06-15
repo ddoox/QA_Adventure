@@ -2,10 +2,11 @@ from selenium.common.exceptions import NoSuchElementException
 from selenium import webdriver
 import unittest
 import HTMLReport
-from OrangeHRM.Pages.LoginPage import LoginPage
-from OrangeHRM.Locators.Locators import Locators
+from Selenium.OrangeHRM.Pages.LoginPage import LoginPage
+from Selenium.OrangeHRM.Locators.Locators import Locators
 from webdriver_manager.chrome import ChromeDriverManager
-from webdriver_manager.microsoft import EdgeChromiumDriverManager, IEDriverManager
+from webdriver_manager.microsoft import IEDriverManager
+from webdriver_manager.microsoft import EdgeChromiumDriverManager
 from webdriver_manager.opera import OperaDriverManager
 from webdriver_manager.firefox import GeckoDriverManager
 
@@ -14,10 +15,11 @@ class WebDriverManager(unittest.TestCase):
 
     @classmethod
     def setUpClass(cls):
-        cls.driver = webdriver.Chrome(ChromeDriverManager().install())
+        
+        # cls.driver = webdriver.Chrome(ChromeDriverManager().install())
         # cls.driver = webdriver.Chrome(GeckoDriverManager(path="/home/doox/PycharmProjects/Selenium/drivers").install())   # TODO: Check on Windows
-        # cls.driver = webdriver.Edge(EdgeChromiumDriverManager().install())     # TODO: Check on Windows
-        # cls.driver = webdriver.Edge(IEDriverManager().install())               # TODO: Check on Windows
+        cls.driver = webdriver.Firefox(executable_path=GeckoDriverManager().install())        # Work
+        # cls.driver = webdriver.Ie(IEDriverManager().install())              # Check on Windows - working
         # cls.driver = webdriver.Opera(OperaDriverManager(path="/home/doox/PycharmProjects/Selenium/drivers").install())
         # driver = webdriver.Opera(executable_path=OperaDriverManager(log_level=0).install())   # TODO: Check on Windows
 

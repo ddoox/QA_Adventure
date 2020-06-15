@@ -2,19 +2,15 @@
 ## Currently working on
   * [ ] [Advent of Code](https://adventofcode.com/) - programming puzzles
   * [ ] [Guru99](https://www.guru99.com/live-testing-project.html) - 13 day project
-
+  * [ ] [Elemental Selenium](http://elementalselenium.com/) - E-mail about Selenium once per week(Tuesday/Java)
 
 ## Planned
-  * [ ] [Elemental Selenium](http://elementalselenium.com/) - E-mail about Selenium once per week
-  * [ ] [Guru99](https://www.guru99.com/live-testing-project.html) - 13 day project
   * [ ] [SoftwareTestingHelp](https://www.softwaretestinghelp.com/free-online-software-testing-qa-training-course/) - End To End Training On A Live Project
   * [ ] [Mr Buggy](http://mrbuggy.pl/) - Apps created for TestingCup
   * [ ] [Selenium Easy](https://www.seleniumeasy.com/test/) - Selenium exercise set
   * [ ] [TestersPlayground](https://testersplayground.herokuapp.com/) - Various challenges designed to help testers learn as well as challenge their current knowledge and skills
-  
+
 ## Useful links
-
-
 * Courses
 * [ ] [Udacity](https://www.udacity.com/course/software-testing--cs258) - Software Testing
 * [ ] [EDX](https://www.edx.org/course/software-testing-fundamentals) - Software Testing Fundamentals - starts July 14
@@ -27,8 +23,7 @@
 * [ ] [Guru99](https://www.guru99.com/selenium-tutorial.html) - Selenium Tutorial for Beginners
 * [ ] [Guru99](https://www.guru99.com/jmeter-tutorials.html) - JMeter Tutorial for Beginners
 
-  
-  
+
 * Practical examples
 * [ ] [Herokuapp](http://the-internet.herokuapp.com/) - Various functionalities
 * [ ] [Mr Buggy](http://mrbuggy.pl/) - Apps created for TestingCup
@@ -51,7 +46,6 @@
 * [ ] [TestersPlayground](https://testersplayground.herokuapp.com/) - Various challenges designed to help testers learn as well as challenge their current knowledge and skills
 * [x] [Automated Software Testing Arena](https://asta.pgs-soft.com/) - 10 tasks, done manual
 
-  
 
 * Local apps
 * [ ] [WordPress](https://instantwp.com/) - Portable Standalone WordPress
@@ -64,7 +58,7 @@
 * [ ] [OrangeHRM](https://opensource-demo.orangehrmlive.com/) - HRM
 * [ ] [Weathershopper](https://weathershopper.pythonanywhere.com/) - Weather
 
-  
+
 * Crowd-testing
 * [ ] [uTest](https://www.utest.com/)
 
@@ -75,4 +69,3 @@
 * [ ] [Glitchplay](https://glitchplay.com/) - Game testing
 * [ ] [Sphere online judge](https://www.spoj.com/)
 * [ ] [JetBrains Academy](https://hyperskill.org/onboarding) - Java/Python
-  
