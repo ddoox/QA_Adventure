@@ -11,7 +11,7 @@
   * [ ] [TestersPlayground](https://testersplayground.herokuapp.com/) - Various challenges designed to help testers learn as well as challenge their current knowledge and skills
 
 ## Useful links
-* Courses
+##### Courses
 * [ ] [Udacity](https://www.udacity.com/course/software-testing--cs258) - Software Testing
 * [ ] [EDX](https://www.edx.org/course/software-testing-fundamentals) - Software Testing Fundamentals - starts July 14
 * [ ] [Introduction to Software Testing ](https://alison.com/course/introduction-to-software-testing) - Short, 2-3 h
@@ -24,7 +24,7 @@
 * [ ] [Guru99](https://www.guru99.com/jmeter-tutorials.html) - JMeter Tutorial for Beginners
 
 
-* Practical examples
+##### Practical examples
 * [ ] [Herokuapp](http://the-internet.herokuapp.com/) - Various functionalities
 * [ ] [Mr Buggy](http://mrbuggy.pl/) - Apps created for TestingCup
 * [ ] [Testing Challenge](http://testingchallenges.thetestingmap.org/index.php) - Exercises
@@ -47,23 +47,23 @@
 * [x] [Automated Software Testing Arena](https://asta.pgs-soft.com/) - 10 tasks, done manual
 
 
-* Local apps
+##### Local apps
 * [ ] [WordPress](https://instantwp.com/) - Portable Standalone WordPress
 * [ ] [Simple-Pokedex](https://github.com/amogh-w/Simple-Pokedex) - React TypeScript
 
 
-* Example websites to test
+##### Example websites to test
 * [ ] [Shop](http://automationpractice.com/index.php) - Ecommerce
 * [ ] [Mercury Tours](http://newtours.demoaut.com/) - Travel
 * [ ] [OrangeHRM](https://opensource-demo.orangehrmlive.com/) - HRM
 * [ ] [Weathershopper](https://weathershopper.pythonanywhere.com/) - Weather
 
 
-* Crowd-testing
+##### Crowd-testing
 * [ ] [uTest](https://www.utest.com/)
 
 
-* Programming
+##### Programming
 * [ ] [Advent of Code](https://adventofcode.com/) - Programming puzzles
 * [ ] [CheckiO](https://checkio.org/) - Programming game
 * [ ] [Glitchplay](https://glitchplay.com/) - Game testing
