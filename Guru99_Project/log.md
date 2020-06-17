@@ -9,6 +9,10 @@ Created a few Test Cases, waiting for prepared "by experts"
 
 ## Day 4
 Main differences between mine cases and "experts": I had simpler test case template - without test data and test steps. Overall not too bad. Some info about integration testing. Tomorrow test execution.
+
+## Day 5
+It's testing time. Created Jira project to log bugs. This site is a masterpiece. It's the ugliest thing that I've ever seen. Almost nothing works as supposed. A real work of art. 
+
 <br>
 <br>
 <br>
