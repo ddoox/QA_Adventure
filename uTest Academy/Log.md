@@ -42,3 +42,38 @@ At uTest, we have observed the following common GDPR violations by testers in th
 
 ### 4. uTest Cycle Process
 Informations about testing process
+
+### 5. Slots and Test Cases
+Some info about TC, nothing new
+
+### 6. Bug Reports
+What is bug, bug reports
+
+Bugs’ presumed severity
+
+    Low severity - A minor incident that impacts the product’s usability, but does not interfere with core features or functionality.
+        Page or image misalignment
+        Content, spelling, grammatical or punctuation errors
+    Medium severity - A minor incident with medium impact that may interfere with core features or functionality, but has a workaround and does not stop further testing or product release.
+        Noticeable performance degradation
+        A minor inconvenience to customers with a workaround available
+    High severity - A major incident with significant impact that interferes with core features and functionality and may stop further testing or delay product release.
+        Core functionality is significantly impacted
+        A service is unavailable for a subset of customers
+    Critical severity - A critical incident with very high impact that interferes with core features and functionality, stops further testing efforts and must be fixed before product release.
+        App crashes or freezes
+        Confidentiality or privacy is breached
+        A customer-facing service is down for all customers
+
+
+At uTest we categorize bugs into five different types:
+
+    Functional - Work flow failures
+    Visual - Layout and user interface distortions or mistakes
+    Content - Typos, grammatical issues and localization errors in text
+    Performance - Problematic slowness, hanging, or sluggish interface
+    Crash - The application quits unexpectedly
+    
+### 7. Introduction to Testing
+First practice test cycle
+   

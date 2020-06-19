@@ -3,6 +3,9 @@
   * [ ] [Advent of Code](https://adventofcode.com/) - programming puzzles
   * [ ] [Guru99](https://www.guru99.com/live-testing-project.html) - 13 day project
   * [ ] [Elemental Selenium](http://elementalselenium.com/) - E-mail about Selenium once per week(Tuesday/Java)
+  * [ ] [uTest Academy](https://www.utest.com/academy) - Preparing for crowd-testing
+  * [ ] [Udacity](https://www.udacity.com/course/software-testing--cs258) - Software Testing
+
 
 ## Planned
   * [ ] [SoftwareTestingHelp](https://www.softwaretestinghelp.com/free-online-software-testing-qa-training-course/) - End To End Training On A Live Project
@@ -22,6 +25,8 @@
 * [ ] [Guru99](https://www.guru99.com/software-testing.html) - Software Testing Tutorial
 * [ ] [Guru99](https://www.guru99.com/selenium-tutorial.html) - Selenium Tutorial for Beginners
 * [ ] [Guru99](https://www.guru99.com/jmeter-tutorials.html) - JMeter Tutorial for Beginners
+* [ ] [uTest Academy](https://www.utest.com/academy) - Preparing for crowd-testing
+
 
 
 ##### Practical examples

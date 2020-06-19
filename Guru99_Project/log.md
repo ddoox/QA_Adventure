@@ -13,6 +13,13 @@ Main differences between mine cases and "experts": I had simpler test case templ
 ## Day 5
 It's testing time. Created Jira project to log bugs. This site is a masterpiece. It's the ugliest thing that I've ever seen. Almost nothing works as supposed. A real work of art. 
 
+## Day 6
+Test cases executed by experts
+
+## Day 7
+New website version, stil some bug exists
+
+
 <br>
 <br>
 <br>

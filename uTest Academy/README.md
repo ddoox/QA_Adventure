@@ -1,2 +1,2 @@
-# Trying uTest
+# uTest Academy courses
 
