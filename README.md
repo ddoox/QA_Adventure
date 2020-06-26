@@ -1,10 +1,11 @@
 # Adventure with QA
 ## Currently working on
-  * [ ] [Advent of Code](https://adventofcode.com/) - programming puzzles
-  * [ ] [Guru99](https://www.guru99.com/live-testing-project.html) - 13 day project
+  * [ ] ISTQB Foundation Level course (3 days - 21h)
+  * [ ] ISTQB Foundation Level exam
+  * [ ] [Guru99](https://www.guru99.com/live-testing-project.html) - 13 days testing project
   * [ ] [Elemental Selenium](http://elementalselenium.com/) - E-mail about Selenium once per week(Tuesday/Java)
-  * [ ] [uTest Academy](https://www.utest.com/academy) - Preparing for crowd-testing
   * [ ] [Udacity](https://www.udacity.com/course/software-testing--cs258) - Software Testing
+  * [ ] [Advent of Code](https://adventofcode.com/) - Programming puzzles
 
 
 ## Planned
@@ -21,11 +22,11 @@
 * [ ] [Software Testing Tutorial](https://www.guru99.com/software-testing.html) - A lot of tutorials
 * [ ] [Elemental Selenium](http://elementalselenium.com/) - E-mail about Selenium once per week
 * [ ] [SoftwareTestingHelp](https://www.softwaretestinghelp.com/free-online-software-testing-qa-training-course/) - End To End Training On A Live Project
-* [ ] [Guru99](https://www.guru99.com/live-testing-project.html) - 13 day project
+* [ ] [Guru99](https://www.guru99.com/live-testing-project.html) - 13 days testing project
 * [ ] [Guru99](https://www.guru99.com/software-testing.html) - Software Testing Tutorial
 * [ ] [Guru99](https://www.guru99.com/selenium-tutorial.html) - Selenium Tutorial for Beginners
 * [ ] [Guru99](https://www.guru99.com/jmeter-tutorials.html) - JMeter Tutorial for Beginners
-* [ ] [uTest Academy](https://www.utest.com/academy) - Preparing for crowd-testing
+* [x] [uTest Academy](https://www.utest.com/academy) - Preparing for crowd-testing
 
 
 
@@ -72,5 +73,5 @@
 * [ ] [Advent of Code](https://adventofcode.com/) - Programming puzzles
 * [ ] [CheckiO](https://checkio.org/) - Programming game
 * [ ] [Glitchplay](https://glitchplay.com/) - Game testing
-* [ ] [Sphere online judge](https://www.spoj.com/)
+* [ ] [Sphere online judge](https://www.spoj.com/) - Exercises 
 * [ ] [JetBrains Academy](https://hyperskill.org/onboarding) - Java/Python
