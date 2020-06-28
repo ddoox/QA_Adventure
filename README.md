@@ -8,6 +8,7 @@
   * [Local apps](#local-apps)
   * [Example websites to test](#example-websites-to-test)
   * [Crowd-testing](#crowd-testing)
+  * [Books](#books)
   * [Other](#other)
 - [Completed](#completed)
 
@@ -16,6 +17,8 @@
   * [ ] [Guru99](https://www.guru99.com/live-testing-project.html) - 13 days testing project
   * [ ] [Elemental Selenium](http://elementalselenium.com/) - E-mail about Selenium once per week(Tuesday/Java)
   * [ ] [Udacity](https://www.udacity.com/course/software-testing--cs258) - Software Testing
+  * [ ] "Pasja testowania" Krzysztof Jadczyk
+  * [ ] "Syllabus ISTQB" 2018 v3.1
 
 
 ## TODO
@@ -67,8 +70,12 @@
 
 
 ##### Crowd-testing
-* [ ] [uTest](https://www.utest.com/)
+* [uTest](https://www.utest.com/)
 
+
+##### Books
+* [ ] "Zawód tester" Radosław Smilgin
+* [ ] "Testowanie i jakość oprogramowania" Adam Roman
 
 ##### Other
 * [Advent of Code](https://adventofcode.com/) - Programming puzzles
