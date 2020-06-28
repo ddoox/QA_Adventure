@@ -1,32 +1,33 @@
 # Adventure with QA
+
+## Table of Contents
+- [Currently working on](#currently-working-on)
+- [TODO](#todo)
+  * [Courses](#courses)
+  * [Practical examples](#practical-examples)
+  * [Local apps](#local-apps)
+  * [Example websites to test](#example-websites-to-test)
+  * [Crowd-testing](#crowd-testing)
+  * [Other](#other)
+- [Completed](#completed)
+
 ## Currently working on
-  * [ ] ISTQB Foundation Level course (3 days - 21h)
-  * [ ] ISTQB Foundation Level exam
+  * [ ] Prepare for ISTQB Foundation Level exam
   * [ ] [Guru99](https://www.guru99.com/live-testing-project.html) - 13 days testing project
   * [ ] [Elemental Selenium](http://elementalselenium.com/) - E-mail about Selenium once per week(Tuesday/Java)
   * [ ] [Udacity](https://www.udacity.com/course/software-testing--cs258) - Software Testing
-  * [ ] [Advent of Code](https://adventofcode.com/) - Programming puzzles
 
 
-## Planned
-  * [ ] [SoftwareTestingHelp](https://www.softwaretestinghelp.com/free-online-software-testing-qa-training-course/) - End To End Training On A Live Project
-  * [ ] [Mr Buggy](http://mrbuggy.pl/) - Apps created for TestingCup
-  * [ ] [Selenium Easy](https://www.seleniumeasy.com/test/) - Selenium exercise set
-  * [ ] [TestersPlayground](https://testersplayground.herokuapp.com/) - Various challenges designed to help testers learn as well as challenge their current knowledge and skills
+## TODO
 
-## Useful links
 ##### Courses
-* [ ] [Udacity](https://www.udacity.com/course/software-testing--cs258) - Software Testing
 * [ ] [EDX](https://www.edx.org/course/software-testing-fundamentals) - Software Testing Fundamentals - starts July 14
 * [ ] [Introduction to Software Testing ](https://alison.com/course/introduction-to-software-testing) - Short, 2-3 h
 * [ ] [Software Testing Tutorial](https://www.guru99.com/software-testing.html) - A lot of tutorials
-* [ ] [Elemental Selenium](http://elementalselenium.com/) - E-mail about Selenium once per week
 * [ ] [SoftwareTestingHelp](https://www.softwaretestinghelp.com/free-online-software-testing-qa-training-course/) - End To End Training On A Live Project
-* [ ] [Guru99](https://www.guru99.com/live-testing-project.html) - 13 days testing project
 * [ ] [Guru99](https://www.guru99.com/software-testing.html) - Software Testing Tutorial
 * [ ] [Guru99](https://www.guru99.com/selenium-tutorial.html) - Selenium Tutorial for Beginners
 * [ ] [Guru99](https://www.guru99.com/jmeter-tutorials.html) - JMeter Tutorial for Beginners
-* [x] [uTest Academy](https://www.utest.com/academy) - Preparing for crowd-testing
 
 
 
@@ -50,7 +51,7 @@
 * [ ] [Poké API](https://pokeapi.co/) - RESTful API
 * [ ] [Dummy REST API](http://dummy.restapiexample.com/)  - REST API
 * [ ] [TestersPlayground](https://testersplayground.herokuapp.com/) - Various challenges designed to help testers learn as well as challenge their current knowledge and skills
-* [x] [Automated Software Testing Arena](https://asta.pgs-soft.com/) - 10 tasks, done manual
+* [ ] [Glitchplay](https://glitchplay.com/) - Game testing
 
 
 ##### Local apps
@@ -69,9 +70,14 @@
 * [ ] [uTest](https://www.utest.com/)
 
 
-##### Programming
-* [ ] [Advent of Code](https://adventofcode.com/) - Programming puzzles
-* [ ] [CheckiO](https://checkio.org/) - Programming game
-* [ ] [Glitchplay](https://glitchplay.com/) - Game testing
-* [ ] [Sphere online judge](https://www.spoj.com/) - Exercises 
-* [ ] [JetBrains Academy](https://hyperskill.org/onboarding) - Java/Python
+##### Other
+* [Advent of Code](https://adventofcode.com/) - Programming puzzles
+* [CheckiO](https://checkio.org/) - Coding games for beginners and advanced programmers Python/Typescript
+* [Sphere online judge](https://www.spoj.com/) - Exercises 
+* [JetBrains Academy](https://hyperskill.org/onboarding) - Java/Python
+
+
+## Completed
+* [x] [Automated Software Testing Arena](https://asta.pgs-soft.com/) - 10 tasks, done manual
+* [x] [uTest Academy](https://www.utest.com/academy) - Prepare for crowd-testing
+* [x] ISTQB Foundation Level course (3 days - 21h)
