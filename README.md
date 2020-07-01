@@ -13,12 +13,17 @@
 - [Completed](#completed)
 
 ## Currently working on
-  * [ ] Prepare for ISTQB Foundation Level exam
-  * [ ] [Guru99](https://www.guru99.com/live-testing-project.html) - 13 days testing project
-  * [ ] [Elemental Selenium](http://elementalselenium.com/) - E-mail about Selenium once per week(Tuesday/Java)
-  * [ ] [Udacity](https://www.udacity.com/course/software-testing--cs258) - Software Testing
-  * [ ] "Pasja testowania" Krzysztof Jadczyk
-  * [ ] "Syllabus ISTQB" 2018 v3.1
+* [ ] Prepare for ISTQB Foundation Level exam
+* [ ] [Elemental Selenium](http://elementalselenium.com/) - E-mail about Selenium once per week(Tuesday/Java)
+* [ ] [Udacity](https://www.udacity.com/course/software-testing--cs258) - Software Testing
+* [ ] "Pasja testowania" Krzysztof Jadczyk
+* [ ] "Syllabus ISTQB" 2018 v3.1
+* [ ] [Mr Buggy](http://mrbuggy.pl/) - Apps created for TestingCup <details> <summary> Progress </summary> 
+ Working on: 3  
+ Plan: 6 1 2 4 5 7  
+ Completed:  
+
+</details>
 
 
 ## TODO
@@ -36,7 +41,6 @@
 
 ##### Practical examples
 * [ ] [Herokuapp](http://the-internet.herokuapp.com/) - Various functionalities
-* [ ] [Mr Buggy](http://mrbuggy.pl/) - Apps created for TestingCup
 * [ ] [Testing Challenge](http://testingchallenges.thetestingmap.org/index.php) - Exercises
 * [ ] [Restful-Booker](https://restful-booker.herokuapp.com/) - API testing sandbox
 * [ ] [Selenium Easy](https://www.seleniumeasy.com/test/) - Selenium exercise set
@@ -88,3 +92,6 @@
 * [x] [Automated Software Testing Arena](https://asta.pgs-soft.com/) - 10 tasks, done manual
 * [x] [uTest Academy](https://www.utest.com/academy) - Prepare for crowd-testing
 * [x] ISTQB Foundation Level course (3 days - 21h)
+* [x] [Guru99](https://www.guru99.com/live-testing-project.html) - 13 days testing project
+  
+  
