@@ -13,17 +13,11 @@
 - [Completed](#completed)
 
 ## Currently working on
-* [ ] Prepare for ISTQB Foundation Level exam
-* [ ] [Elemental Selenium](http://elementalselenium.com/) - E-mail about Selenium once per week(Tuesday/Java)
-* [ ] [Udacity](https://www.udacity.com/course/software-testing--cs258) - Software Testing
-* [ ] "Pasja testowania" Krzysztof Jadczyk
-* [ ] "Syllabus ISTQB" 2018 v3.1
-* [ ] [Mr Buggy](http://mrbuggy.pl/) - Apps created for TestingCup <details> <summary> Progress </summary> 
- Working on: 3  
- Plan: 6 1 2 4 5 7  
- Completed:  
 
-</details>
+
+* [ ] Info/Exercises Robot framework
+
+
 
 
 ## TODO
@@ -36,7 +30,8 @@
 * [ ] [Guru99](https://www.guru99.com/software-testing.html) - Software Testing Tutorial
 * [ ] [Guru99](https://www.guru99.com/selenium-tutorial.html) - Selenium Tutorial for Beginners
 * [ ] [Guru99](https://www.guru99.com/jmeter-tutorials.html) - JMeter Tutorial for Beginners
-
+* [ ] [Elemental Selenium](http://elementalselenium.com/) - E-mail about Selenium once per week(Tuesday/Java)
+* [ ] [Udacity](https://www.udacity.com/course/software-testing--cs258) - Software Testing
 
 
 ##### Practical examples
@@ -59,6 +54,12 @@
 * [ ] [Dummy REST API](http://dummy.restapiexample.com/)  - REST API
 * [ ] [TestersPlayground](https://testersplayground.herokuapp.com/) - Various challenges designed to help testers learn as well as challenge their current knowledge and skills
 * [ ] [Glitchplay](https://glitchplay.com/) - Game testing
+* [ ] [Mr Buggy](http://mrbuggy.pl/) - Apps created for TestingCup <details> <summary> Progress </summary> 
+ Working on: 3  
+ Plan: 6 1 2 4 5 7  
+ Completed:  
+
+</details>
 
 
 ##### Local apps
@@ -80,6 +81,7 @@
 ##### Books
 * [ ] "Zawód tester" Radosław Smilgin
 * [ ] "Testowanie i jakość oprogramowania" Adam Roman
+* [ ] "Pasja testowania" Krzysztof Jadczyk
 
 ##### Other
 * [Advent of Code](https://adventofcode.com/) - Programming puzzles
@@ -93,5 +95,7 @@
 * [x] [uTest Academy](https://www.utest.com/academy) - Prepare for crowd-testing
 * [x] ISTQB Foundation Level course (3 days - 21h)
 * [x] [Guru99](https://www.guru99.com/live-testing-project.html) - 13 days testing project
+* [x] "Syllabus ISTQB" 2018 v3.1
+* [x] Prepare for ISTQB Foundation Level exam
   
   
